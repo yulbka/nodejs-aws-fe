@@ -1,3 +1,7 @@
+## Store links
+CloudFront URL: http://my-first-rsapp.s3-website-eu-west-1.amazonaws.com/
+S3-website: d42r6472xp3fa.cloudfront.net
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
