@@ -50,12 +50,12 @@ export default function Products() {
           <Card className={classes.card}>
             <CardMedia
               className={classes.cardMedia}
-              image={product.image}
+              image={`https://source.unsplash.com/random?sig=${index}`}
               title="Image title"
             />
             <CardContent className={classes.cardContent}>
               <Typography gutterBottom variant="h5" component="h2">
-                {product.productName}
+                {product.title}
               </Typography>
               <Typography className={classes.withMargin}>
                 {product.description}
